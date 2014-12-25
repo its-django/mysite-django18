@@ -15,7 +15,7 @@ urlpatterns = [
 
     url('^index/$', views.index),
     url(r'^accounts/register/$', views.register),
-    url(r'^here/$', views.here),
+    url(r'^here/$', views.HereView.as_view()),
     url(r'^(\d{1,2})/math/(\d{1,2})/$', views.math),
     url(r'^welcome/$', views.welcome),
 
