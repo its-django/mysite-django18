@@ -13,7 +13,7 @@ urlpatterns = [
     url(r'^accounts/logout/$', logout),
     url(r'^admin/', include(admin.site.urls)),
 
-    url('^index/$', views.index),
+    url('^index/$', views.IndexView.as_view()),
     url(r'^accounts/register/$', views.register),
     url(r'^here/$', views.HereView.as_view()),
     url(r'^(\d{1,2})/math/(\d{1,2})/$', views.math),
