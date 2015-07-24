@@ -1,6 +1,7 @@
-## It's Django -- 用Python迅速打造Web應用 (1.8範例碼專案)
+## It's Django -- 用Python迅速打造Web應用 
 
-本書所有資訊皆可於本書的github wiki上取得:
+這是就 Django1.8 以上的版本所提供的範例碼專案。我們將陸續就升級至1.8版作說明。
+其餘有關於本書的各種資訊，還是請讀者於原本專案(適用於Django1.7版)的github wiki上取得:
 * [前往本書wiki](https://github.com/its-django/mysite/wiki)
 
 ### wiki目錄
