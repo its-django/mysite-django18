@@ -18,6 +18,7 @@
 * [社群與互動](https://github.com/its-django/mysite/wiki/社群與互動)
 * [勘誤](https://github.com/its-django/mysite/wiki/勘誤)
   * [錯漏多字勘誤總表](https://github.com/its-django/mysite/wiki/勘誤/#錯字勘誤總表)
+  * [重要參數勘誤表](https://github.com/its-django/mysite/wiki/勘誤/#重要參數勘誤表)
 * [學習資源](https://github.com/its-django/mysite/wiki/學習資源)
   * [部落格教學](https://github.com/its-django/mysite/wiki/學習資源/#部落格教學)
   * [相關網站](https://github.com/its-django/mysite/wiki/學習資源/#相關網站) 
